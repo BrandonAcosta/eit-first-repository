@@ -1,0 +1,26 @@
+h1,h2,p/* Por Etiqueta */{
+    font-family: Arial, Helvetica, sans-serif;
+    /*font-weight: lighter;  */
+    color:rgb(6, 6, 6);
+}
+aside{
+    width: 96px;
+}
+#content{ /* Por ID*/
+    display: flex;
+}
+.bg-color-green/*por clase */ {
+background-color: aquamarine;
+}
+.bg-color-red{
+    background-color: darksalmon;
+}
+.bg-color-blue{
+    background-color: deepskyblue;
+}
+.bg-color-yellow{
+    background-color: yellowgreen;
+}
+.d-flex{
+    display: flex;
+}
